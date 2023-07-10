@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "my_pgdb",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "graphql_production",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
